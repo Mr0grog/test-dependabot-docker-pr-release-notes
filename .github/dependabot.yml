@@ -10,7 +10,8 @@ registries:
 
 updates:
   - package-ecosystem: 'docker'
-    registries: "*"
+    registries:
+      - dockerhub
     directory: '/'
     schedule:
       interval: 'daily'
