@@ -1,3 +1,3 @@
-FROM ghcr.io/dependabot-fixtures/docker-with-source:v0.0.2
+FROM mr0grog/test-release-notes:0.1.0
 
 LABEL org.opencontainers.image.description="This is a test."
