@@ -1,3 +1,3 @@
-FROM mr0grog/test-release-notes:0.1.0
+FROM mr0grog/test-release-notes:0.1.1
 
 LABEL org.opencontainers.image.description="This is a test."
